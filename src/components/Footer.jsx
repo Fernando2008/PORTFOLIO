@@ -78,7 +78,7 @@ const Footer = () => {
 
       {/* COPYRIGHTS */}
       <div className="w-max ml-auto mr-auto mt-4 text-xs opacity-65 text-lightText">
-        <p>&copy;Fernando Togna 2025. All Rights Reserved.</p>
+        <p>&copy; Fernando Togna 2025. All Rights Reserved.</p>
       </div>
     </div>
   );
